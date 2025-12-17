@@ -34,6 +34,20 @@ Talent-Invest allows for **accurate verification of skills** for individuals and
 3. Obtain a full report (Sections 0–E) with technical scores, trust scores, risk analysis, and investment recommendations.
 4. Use the report to verify teams, projects, or prepare investment decisions.
 
+## Usage Instructions:
+
+This prompt is designed to be directly pasted into any AI conversational tool you regularly use (e.g., ChatGPT, Claude, Grok, Gemini) that supports structured prompt execution.
+
+Ensure the AI model has access to your recent technical exchanges, structured data, or documented interactions for the evaluation to be meaningful.
+
+Do not modify the core structure of the prompt; only adjust context variables if necessary (e.g., project or team identifiers).
+
+The AI will generate a full analytical profile, competency mapping, percentile rankings, and actionable insights based strictly on verifiable technical interactions.
+
+For best results, maintain formal, precise language and include only substantive technical content when feeding input to the AI.
+
+Important: This framework evaluates human capital—skills, experience, and decision-making abilities—rather than project deliverables. It works across all industries and roles: technical, managerial, corporate, academic, and public sector.
+
 ## License
 This prompt is licensed under **CC BY-SA 4.0** — free to use, share, and adapt, as long as attribution is given and derivative works remain under the same license.  
 Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
