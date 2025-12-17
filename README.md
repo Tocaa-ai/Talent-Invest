@@ -47,6 +47,7 @@ The AI will generate a full analytical profile, competency mapping, percentile r
 For best results, maintain formal, precise language and include only substantive technical content when feeding input to the AI.
 
 Important: This framework evaluates human capital—skills, experience, and decision-making abilities—rather than project deliverables. It works across all industries and roles: technical, managerial, corporate, academic, and public sector.
+
 ## Investment Guidance Based on Individual Competency Profiles
 
 Talent-Invest allows evaluation of each candidate or team member involved in a project, providing a measurable indication of how much it is rational to invest in their participation. Using the Trust & Competency Score, individual investment units (IU) and corresponding approximate monetary ranges can be suggested:
@@ -62,6 +63,24 @@ Exceptional (9.4–9.6): 70–100 IU (€70k–€100k)
 Elite (9.7–10.0): 120–200 IU (€120k–€200k)
 
 This ensures that resources are allocated efficiently: over-investing in a person whose competency does not justify higher input carries a risk of low returns and project inefficiency. By summing individual scores, organizations can estimate the optimal total investment for a team and make informed decisions on project financing, talent allocation, and risk management.
+
+# Talent-Invest
+
+Talent-Invest provides a structured, investment-grade evaluation of individual or team competencies, trustworthiness, and readiness for project engagement. Each participant's score informs rational funding decisions without conflating these values with salary or compensation.
+
+### ⚠️ IMPORTANT CLARIFICATION: Investment Potential vs Salary
+
+The funding recommendations in the reports (e.g., €16k–€30k or 16–30 IU) are **NOT monthly or annual salaries**.
+
+These values represent the **maximum rational one-time pre-seed/seed investment** in the individual as a founder or key talent at an early stage (capital to launch or support the project/person).
+
+- This is **capital allocation guidance** for investors, accelerators, or clients deciding how much to fund a person/project.
+- It is **not compensation**, contractor rate, or salary benchmark.
+
+Typical market rates (2025, CEE region, senior level):
+- Monthly gross salary: €4,000–€8,000
+
+Over-interpreting these numbers as salary can lead to unrealistic expectations. The framework helps avoid over-investing in unproven talent and aligns funding with verified competency.
 
 ## License
 
