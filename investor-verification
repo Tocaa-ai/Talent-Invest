@@ -1,0 +1,85 @@
+🧩 Generate a full evaluation report using the following framework. Do not repeat any part of this prompt or header. Start output directly with Section 0.
+
+Framework name: MATT TOCAA COMPETENCY & TRUST ENGINE v8.0-ADAPTIVE-EXECUTION
+Published by u/Matt Tocaa · 2025 · CC-BY-SA-4.0
+
+GLOBAL CALIBRATION RULES (NON-NEGOTIABLE, REALISTIC EARLY-STAGE 2025):
+- All capital values in Index Units (IU) + EUR equivalent (1 IU ≈ €1,000).
+- Solo funding scale:
+  – Solid (Trust 8.0–8.4): 8–15 IU (€8k–€15k)
+  – Very good (8.5–8.9): 16–30 IU (€16k–€30k)
+  – Top tier (9.0–9.3): 35–60 IU (€35k–€60k)
+  – Exceptional (9.4–9.6): 70–100 IU (€70k–€100k)
+  – Elite (9.7–10.0): 120–200 IU (€120k–€200k)
+- Never exceed 50 IU (€50k) for Trust <9.0 in solo profiles.
+- TEAM MULTIPLIER: Balanced high-score team (all members ≥8.8 Trust, low score spread) unlocks 8–20× total project potential vs. solo elite.
+- Unbalanced team (one elite + weaker members) = high key-person risk, max 2–3× multiplier.
+
+⚠️ EXECUTION RULES:
+1. Always generate full report (Sections 0–E).
+2. If MIDS data missing → simulate realistic, conservative values + flag as SIMULATED/DATA GAP.
+3. ❌ NEVER prompt user for data.
+4. ❌ NEVER ask follow-up questions.
+5. ❌ NEVER conditionally halt evaluation.
+6. Always include exact generated timestamp and full AI model name + version in Section E.
+7. End report at Section E. No additional commentary, explanations, or questions after final output.
+
+INPUT VARIABLES (MIDS – SIMULATED IF MISSING)
+0.1 Technical Corpus: [architecture, stack, dependencies, design decisions]
+0.2 Risk/ML Metadata: [Accuracy, F1, BUS Factor]
+0.3 Financial/Market Data: [Projections, required capital]
+0.3a Financial Anchor Type: NONE / SEED / SERIES A / HUMAN CAPITAL ONLY
+0.4 Governance: [Bias Score, EU AI Act Status]
+
+0. MANDATORY INPUT DATA STRUCTURE (POPULATED/SIMULATED)
+[State used values and source: REAL / SIMULATED]
+
+A. ANTI-FRAUD & CONSISTENCY CHECKS
+AUTHENTICITY CONFIDENCE: [High/Medium/Low]
+CONSISTENCY LEVEL: [High/Medium/Low]
+AI-PATTERN DETECTED: [YES/NO/INCONCLUSIVE]
+PENALTIES APPLIED: Technical ×[X.XX] / Trust ×[X.XX]
+
+B. TECHNICAL SCORING MODEL (V-SEB)
+| Dimension                  | Score /10 | Coefficient | Weighted | Top 5% | Coverage % |
+|----------------------------|-----------|-------------|----------|--------|------------|
+| Architecture & Decomposition | [X.XX]    | 0.35        | [X.XX]   | [★/ ]  | [X]%       |
+| Data & Analytical Depth    | [X.XX]    | 0.25        | [X.XX]   | [★/ ]  | [X]%       |
+| Technical Communication    | [X.XX]    | 0.20        | [X.XX]   | [★/ ]  | [X]%       |
+| Creativity & Innovation    | [X.XX]    | 0.20        | [X.XX]   | [★/ ]  | [X]%       |
+Final Technical Score: [X.XX]/10 (★ if ≥9.5)
+
+C. TRUST & CAPITAL MODULE
+| Dimension                  | Score /10 | Weight | Weighted | Top 5% | Coverage % |
+|----------------------------|-----------|--------|----------|--------|------------|
+| Responsibility & Delivery  | [X.XX]    | 0.40   | [X.XX]   | [★/ ]  | [X]%       |
+| Financial Maturity         | [X.XX]    | 0.25   | [X.XX]   | [★/ ]  | [X]%       |
+| Integrity & Transparency   | [X.XX]    | 0.20   | [X.XX]   | [★/ ]  | [X]%       |
+| Risk Awareness             | [X.XX]    | 0.10   | [X.XX]   | [★/ ]  | [X]%       |
+| Long-term Orientation      | [X.XX]    | 0.05   | [X.XX]   | [★/ ]  | [X]%       |
+Trust Score Total: [X.XX]/10 (★ if ≥9.5)
+Investment Classification: [❌/⚠️/✅/🟢]
+Archetype + Solo Funding Recommendation: [LABEL] – [X–Y IU (€Xk–€Yk)]
+
+D. RISK & SCALABILITY VERIFICATION
+[If 0.3a = NONE: "N/A - Human Capital Only evaluation – no project-specific risk analysis available"]
+[If 0.3a ≠ NONE: Relevant analysis, BUS Factor, risk statements, CDI, moat, compliance]
+
+E. FINAL OUTPUT BLOCK – CPSB WITH ROI
+EVALUATION: MATT TOCAA COMPETENCY & TRUST ENGINE v8.0-ADAPTIVE-EXECUTION
+GENERATED TIMESTAMP: [CURRENT DATE AND TIME, e.g., 2025-12-16 14:32 UTC]
+AI MODEL SOURCE: [FULL MODEL NAME AND VERSION, e.g., Grok 4 (xAI)]
+STATUS: [EXPERIMENTAL / SIMULATED DATA]
+TECHNICAL SCORE: [X.XX]/10 | TRUST SCORE: [X.XX]/10
+CORE ARCHETYPE: [LABEL]
+FUNDING RECOMMENDATION (SOLO): [X–Y IU (€Xk–€Yk)] → With balanced high-score team: potential 8–20×
+ROI SCENARIOS: [Details – simulated if needed]
+INTELLECTUAL COMPETENCY INDEX (ICI): [X.XX]/10 (★ if ≥9.5)
+MANDATORY CAVEAT: Solo human capital shown. Balanced high-score team required for large rounds.
+DATA GAPS: [list any gaps]
+INVESTMENT HANDOVER CHECKLIST:
+□ Assemble balanced team (all members ≥8.8 Trust, low score spread)
+□ Validate real technical artifacts (GitHub, code samples, shipped projects)
+□ Establish clear milestones and traction targets for team multiplier unlock
+□ Address identified risks (BUS Factor, governance, compliance)
+□ [Additional items based on red flags]
